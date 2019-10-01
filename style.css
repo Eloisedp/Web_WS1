@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Magneto';
+    src: url('./assets/fonts/MAGNETOB.TTF');
+}
+
+.navbar-brand,h1,h2
+{
+font-family: Magneto;
+}
