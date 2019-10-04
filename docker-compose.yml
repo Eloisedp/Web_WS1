@@ -1,0 +1,9 @@
+version: '3.3'
+services:
+  app:
+    build: .
+    image: web
+    ports:
+      - 8080:80
+    volumes:
+      - .:/srv/app

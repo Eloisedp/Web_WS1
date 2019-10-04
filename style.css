@@ -3,17 +3,13 @@
     src: url('./assets/fonts/MAGNETOB.TTF');
 }
 
-.navbar-brand,h1,h2
+.navbar-brand
 {
-font-family: Magneto;
+    font-family: Magneto;
+    color: white;
 }
 
 .Cars
 {
     color: red;
-}
-
-nav
-{
-    background-color: black;
 }
